@@ -65,5 +65,3 @@ plt.xlabel('x')
 plt.ylabel('y')
 plt.savefig("gradient.png")
 # plt.show()
-
-input("Press Enter to exit")
